@@ -41,9 +41,9 @@
 				<artifactId>dockerfile-maven-plugin</artifactId>
 				<version>1.4.10</version>
 				<configuration>
-					<username>pushpanjali29</username>
+					<username>pushpanjaligupta</username>
 					<password>Pu$hp@222910</password>
-					<repository>pushpanjali29/${project.build.finalName}.jar</repository>
+					<repository>pushpanjaligupta/${project.build.finalName}.jar</repository>
 					<tag>latest</tag>
 					<buildArgs>
 						<JAR_FILE>target/${project.build.finalName}.jar</JAR_FILE>
