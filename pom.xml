@@ -61,6 +61,7 @@
 				</executions>
 			</plugin>
 		</plugins>
+		<finalName>devops_ass3-0.0.1-SNAPSHOT</finalName>
 	</build>
 
 </project>
